@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractCryptoClient.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132189997800000000" Dst="0" />
+<file name="AesDecryptingStream.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132189997800000000" Dst="0" />
+<file name="AesEncryptingStream.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132189997800000000" Dst="0" />
+<file name="AesGcmDecryptingStream.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132189997800000000" Dst="0" />
+<file name="AesGcmEncryptingStream.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132189997800000000" Dst="0" />
+<file name="AesStreamInterface.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132189997800000000" Dst="0" />
+<file name="DecryptionTrait.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132189997800000000" Dst="0" />
+<file name="EncryptionTrait.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132189997800000000" Dst="0" />
+<file name="KmsMaterialsProvider.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132189997800000000" Dst="0" />
+<file name="MaterialsProvider.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132189997800000000" Dst="0" />
+<file name="MetadataEnvelope.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132189997800000000" Dst="0" />
+<file name="MetadataStrategyInterface.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132189997800000000" Dst="0" />
+</dwsync>

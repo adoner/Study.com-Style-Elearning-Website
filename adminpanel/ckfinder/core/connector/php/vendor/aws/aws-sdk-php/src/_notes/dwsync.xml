@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AwsClientInterface.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132189996600000000" Dst="0" />
+<file name="AwsClientTrait.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132189996600000000" Dst="0" />
+<file name="AwsClient.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132189996600000000" Dst="0" />
+<file name="CacheInterface.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132189996600000000" Dst="0" />
+<file name="ClientResolver.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132189996600000000" Dst="0" />
+<file name="Command.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132189997800000000" Dst="0" />
+<file name="CommandInterface.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132189997800000000" Dst="0" />
+<file name="CommandPool.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132189997800000000" Dst="0" />
+<file name="DoctrineCacheAdapter.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190002600000000" Dst="0" />
+<file name="EndpointParameterMiddleware.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190002600000000" Dst="0" />
+<file name="functions.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190003200000000" Dst="0" />
+<file name="HandlerList.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190003200000000" Dst="0" />
+<file name="HasDataTrait.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190003200000000" Dst="0" />
+<file name="HashingStream.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190003200000000" Dst="0" />
+<file name="HashInterface.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190003200000000" Dst="0" />
+<file name="HasMonitoringEventsTrait.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190003200000000" Dst="0" />
+<file name="History.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190003200000000" Dst="0" />
+<file name="IdempotencyTokenMiddleware.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190003200000000" Dst="0" />
+<file name="JsonCompiler.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190003200000000" Dst="0" />
+<file name="LruArrayCache.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190003800000000" Dst="0" />
+<file name="Middleware.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190003800000000" Dst="0" />
+<file name="MockHandler.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190003800000000" Dst="0" />
+<file name="MonitoringEventsInterface.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190003800000000" Dst="0" />
+<file name="MultiRegionClient.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190003800000000" Dst="0" />
+<file name="PhpHash.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190003800000000" Dst="0" />
+<file name="PresignUrlMiddleware.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190004400000000" Dst="0" />
+<file name="Psr16CacheAdapter.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190004400000000" Dst="0" />
+<file name="PsrCacheAdapter.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190004400000000" Dst="0" />
+<file name="ResponseContainerInterface.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190004400000000" Dst="0" />
+<file name="Result.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190004400000000" Dst="0" />
+<file name="ResultInterface.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190004400000000" Dst="0" />
+<file name="ResultPaginator.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190004400000000" Dst="0" />
+<file name="RetryMiddleware.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190004400000000" Dst="0" />
+<file name="Sdk.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190005600000000" Dst="0" />
+<file name="StreamRequestPayloadMiddleware.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190005600000000" Dst="0" />
+<file name="TraceMiddleware.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190005600000000" Dst="0" />
+<file name="Waiter.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190005600000000" Dst="0" />
+<file name="WrappedHttpHandler.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190005600000000" Dst="0" />
+</dwsync>

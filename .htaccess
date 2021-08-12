@@ -1,0 +1,38 @@
+#Options +FollowSymLinks
+RewriteEngine On
+RewriteBase /
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-s
+RewriteCond %{REQUEST_FILENAME} !-l
+
+RewriteRule ^login$ pages/login-page.php
+RewriteRule ^adminlogin$ pages/admin_login.php
+RewriteRule ^logout$ includes/logout.php
+RewriteRule ^adminlogout$ includes/adminLogout.php
+RewriteRule ^pricing$ pages/pricing.php
+RewriteRule ^students$ pages/testimonial_client.php
+RewriteRule ^tutors$ pages/testimonial_tutors.php
+RewriteRule ^iletisim$ pages/contactus.php
+RewriteRule ^yardim$ pages/yardim.php
+RewriteRule ^notify$ studentpanel/includes/NotifyPage.php
+RewriteRule ^success$ studentpanel/includes/SuccessPage.php
+RewriteRule ^error$ studentpanel/includes/ErrorPage.php
+RewriteRule ^paybymePayment$ studentpanel/includes/PaymentPage.php
+RewriteRule ^process/([A-Za-z0-9-]+)/?$ includes/islemler.php?task=$1 [L]
+RewriteRule ^studentpanel$ studentpanel/pages/dashboard.php
+RewriteRule ^adminpanel?$ adminpanel/pages/admindashboard.php
+RewriteRule ^adminpanel/adminuser$ adminpanel/pages/user.php
+RewriteRule ^adminpanel/menus$ adminpanel/pages/menus.php
+RewriteRule ^adminpanel/messages$ adminpanel/pages/sms-email-notification.php
+RewriteRule ^adminpanel/menus/menuekle$ adminpanel/pages/menu-add.php
+RewriteRule ^adminpanel/menus/menuduzenle$ adminpanel/pages/menu-edit.php
+RewriteRule ^studentpanel/studentuser$ studentpanel/pages/user.php
+RewriteRule ^studentpanel/statistics$ studentpanel/pages/statistics.php
+RewriteRule ^studentpanel/membership$ studentpanel/pages/membership.php
+RewriteRule ^studentpanel/account$ studentpanel/pages/account.php
+RewriteRule ^studentpanel/payment$ studentpanel/pages/payment.php
+RewriteRule ^studentpanel/question_answer$ studentpanel/pages/question_answer.php
+RewriteRule ^studentpanel/view-question/([A-Za-z0-9-]+)/?$ studentpanel/pages/view_question.php?qid=$1[L]
+
+RewriteRule ^([A-Za-z0-9-]+)/?$ pages/sayfa.php?p=$1 [L]

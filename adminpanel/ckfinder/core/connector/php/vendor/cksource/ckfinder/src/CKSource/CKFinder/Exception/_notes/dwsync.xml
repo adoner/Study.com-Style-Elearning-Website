@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AccessDeniedException.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190007400000000" Dst="0" />
+<file name="AlreadyExistsException.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190007400000000" Dst="0" />
+<file name="CKFinderException.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190007400000000" Dst="0" />
+<file name="FileNotFoundException.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190007400000000" Dst="0" />
+<file name="FolderNotFoundException.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190007400000000" Dst="0" />
+<file name="InvalidCommandException.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190007400000000" Dst="0" />
+<file name="InvalidConfigException.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190007400000000" Dst="0" />
+<file name="InvalidCsrfTokenException.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190007400000000" Dst="0" />
+<file name="InvalidExtensionException.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190007400000000" Dst="0" />
+<file name="InvalidNameException.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190007400000000" Dst="0" />
+<file name="InvalidPluginException.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190007400000000" Dst="0" />
+<file name="InvalidRequestException.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190007400000000" Dst="0" />
+<file name="InvalidResourceTypeException.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190007400000000" Dst="0" />
+<file name="InvalidUploadException.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190007400000000" Dst="0" />
+<file name="MethodNotAllowedException.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190007400000000" Dst="0" />
+<file name="UnauthorizedException.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190007400000000" Dst="0" />
+</dwsync>

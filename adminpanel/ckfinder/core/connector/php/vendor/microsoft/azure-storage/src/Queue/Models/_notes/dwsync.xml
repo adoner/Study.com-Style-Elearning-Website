@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="CreateQueueOptions.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190008000000000" Dst="0" />
+<file name="GetQueueMetadataResult.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190008000000000" Dst="0" />
+<file name="CreateMessageOptions.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190008000000000" Dst="0" />
+<file name="ListMessagesOptions.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190008000000000" Dst="0" />
+<file name="ListMessagesResult.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190008000000000" Dst="0" />
+<file name="ListQueuesOptions.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190008000000000" Dst="0" />
+<file name="MicrosoftAzureQueueMessage.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190008000000000" Dst="0" />
+<file name="PeekMessagesOptions.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190008000000000" Dst="0" />
+<file name="ListQueuesResult.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190008000000000" Dst="0" />
+<file name="PeekMessagesResult.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190008000000000" Dst="0" />
+<file name="Queue.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190008000000000" Dst="0" />
+<file name="QueueMessage.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190008000000000" Dst="0" />
+<file name="UpdateMessageResult.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190008000000000" Dst="0" />
+<file name="QueueServiceOptions.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190008000000000" Dst="0" />
+</dwsync>

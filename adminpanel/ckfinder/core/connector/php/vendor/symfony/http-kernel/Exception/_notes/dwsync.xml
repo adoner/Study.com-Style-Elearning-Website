@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AccessDeniedHttpException.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190008600000000" Dst="0" />
+<file name="BadRequestHttpException.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190008600000000" Dst="0" />
+<file name="ConflictHttpException.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190008600000000" Dst="0" />
+<file name="FatalErrorException.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190008600000000" Dst="0" />
+<file name="FlattenException.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190008600000000" Dst="0" />
+<file name="GoneHttpException.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190008600000000" Dst="0" />
+<file name="HttpException.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190008600000000" Dst="0" />
+<file name="HttpExceptionInterface.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190008600000000" Dst="0" />
+<file name="LengthRequiredHttpException.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190008600000000" Dst="0" />
+<file name="MethodNotAllowedHttpException.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190008600000000" Dst="0" />
+<file name="NotAcceptableHttpException.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190008600000000" Dst="0" />
+<file name="NotFoundHttpException.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190008600000000" Dst="0" />
+<file name="PreconditionFailedHttpException.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190008600000000" Dst="0" />
+<file name="PreconditionRequiredHttpException.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190008600000000" Dst="0" />
+<file name="ServiceUnavailableHttpException.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190008600000000" Dst="0" />
+<file name="TooManyRequestsHttpException.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190008600000000" Dst="0" />
+<file name="UnauthorizedHttpException.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190008600000000" Dst="0" />
+<file name="UnprocessableEntityHttpException.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190008600000000" Dst="0" />
+<file name="UnsupportedMediaTypeHttpException.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190008600000000" Dst="0" />
+</dwsync>

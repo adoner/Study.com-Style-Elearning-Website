@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="CHANGELOG.md" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190008600000000" Dst="0" />
+<file name="composer.json" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190008600000000" Dst="0" />
+<file name="ContainerAwareEventDispatcher.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190008600000000" Dst="0" />
+<file name="Event.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190008600000000" Dst="0" />
+<file name="EventDispatcher.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190008600000000" Dst="0" />
+<file name="EventDispatcherInterface.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190008600000000" Dst="0" />
+<file name="EventSubscriberInterface.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190008600000000" Dst="0" />
+<file name="GenericEvent.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190008600000000" Dst="0" />
+<file name="ImmutableEventDispatcher.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190008600000000" Dst="0" />
+<file name="LICENSE" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190008600000000" Dst="0" />
+<file name="phpunit.xml.dist" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190008600000000" Dst="0" />
+<file name="README.md" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190008600000000" Dst="0" />
+</dwsync>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractParser.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132189996600000000" Dst="0" />
+<file name="AbstractRestParser.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132189996600000000" Dst="0" />
+<file name="Crc32ValidatingParser.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132189996600000000" Dst="0" />
+<file name="DecodingEventStreamIterator.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132189996600000000" Dst="0" />
+<file name="EventParsingIterator.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132189996600000000" Dst="0" />
+<file name="JsonParser.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132189996600000000" Dst="0" />
+<file name="JsonRpcParser.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132189996600000000" Dst="0" />
+<file name="MetadataParserTrait.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132189996600000000" Dst="0" />
+<file name="PayloadParserTrait.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132189996600000000" Dst="0" />
+<file name="QueryParser.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132189996600000000" Dst="0" />
+<file name="RestJsonParser.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132189996600000000" Dst="0" />
+<file name="RestXmlParser.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132189996600000000" Dst="0" />
+<file name="XmlParser.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132189996600000000" Dst="0" />
+</dwsync>

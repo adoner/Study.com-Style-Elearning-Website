@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractMonitoringMiddleware.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132189996600000000" Dst="0" />
+<file name="ApiCallAttemptMonitoringMiddleware.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132189996600000000" Dst="0" />
+<file name="ApiCallMonitoringMiddleware.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132189996600000000" Dst="0" />
+<file name="Configuration.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132189996600000000" Dst="0" />
+<file name="ConfigurationInterface.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132189996600000000" Dst="0" />
+<file name="ConfigurationProvider.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132189996600000000" Dst="0" />
+<file name="MonitoringMiddlewareInterface.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132189996600000000" Dst="0" />
+</dwsync>

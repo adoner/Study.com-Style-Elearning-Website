@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ConfigDataCollector.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190008600000000" Dst="0" />
+<file name="DataCollector.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190008600000000" Dst="0" />
+<file name="DataCollectorInterface.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190008600000000" Dst="0" />
+<file name="DumpDataCollector.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190008600000000" Dst="0" />
+<file name="EventDataCollector.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190008600000000" Dst="0" />
+<file name="ExceptionDataCollector.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190008600000000" Dst="0" />
+<file name="LateDataCollectorInterface.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190008600000000" Dst="0" />
+<file name="LoggerDataCollector.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190008600000000" Dst="0" />
+<file name="MemoryDataCollector.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190008600000000" Dst="0" />
+<file name="RouterDataCollector.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190008600000000" Dst="0" />
+<file name="TimeDataCollector.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190008600000000" Dst="0" />
+<file name="RequestDataCollector.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190008600000000" Dst="0" />
+</dwsync>

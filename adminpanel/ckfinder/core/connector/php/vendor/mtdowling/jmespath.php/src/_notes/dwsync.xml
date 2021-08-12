@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AstRuntime.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190008000000000" Dst="0" />
+<file name="CompilerRuntime.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190008000000000" Dst="0" />
+<file name="DebugRuntime.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190008000000000" Dst="0" />
+<file name="Env.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190008000000000" Dst="0" />
+<file name="FnDispatcher.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190008000000000" Dst="0" />
+<file name="JmesPath.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190008000000000" Dst="0" />
+<file name="Lexer.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190008000000000" Dst="0" />
+<file name="Parser.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190008000000000" Dst="0" />
+<file name="TreeCompiler.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190008000000000" Dst="0" />
+<file name="TreeInterpreter.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190008000000000" Dst="0" />
+<file name="SyntaxErrorException.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190008000000000" Dst="0" />
+<file name="Utils.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190008000000000" Dst="0" />
+</dwsync>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="BaseMemcacheProfilerStorage.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190008600000000" Dst="0" />
+<file name="FileProfilerStorage.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190008600000000" Dst="0" />
+<file name="MemcachedProfilerStorage.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190008600000000" Dst="0" />
+<file name="MemcacheProfilerStorage.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190008600000000" Dst="0" />
+<file name="MongoDbProfilerStorage.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190008600000000" Dst="0" />
+<file name="MysqlProfilerStorage.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190008600000000" Dst="0" />
+<file name="PdoProfilerStorage.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190008600000000" Dst="0" />
+<file name="Profile.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190008600000000" Dst="0" />
+<file name="Profiler.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190008600000000" Dst="0" />
+<file name="ProfilerStorageInterface.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190008600000000" Dst="0" />
+<file name="RedisProfilerStorage.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190008600000000" Dst="0" />
+<file name="SqliteProfilerStorage.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190008600000000" Dst="0" />
+</dwsync>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractLogger.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190008000000000" Dst="0" />
+<file name="InvalidArgumentException.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190008000000000" Dst="0" />
+<file name="LoggerAwareInterface.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190008000000000" Dst="0" />
+<file name="LoggerAwareTrait.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190008000000000" Dst="0" />
+<file name="LoggerInterface.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190008600000000" Dst="0" />
+<file name="LoggerTrait.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190008600000000" Dst="0" />
+<file name="LogLevel.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190008600000000" Dst="0" />
+<file name="NullLogger.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190008600000000" Dst="0" />
+</dwsync>

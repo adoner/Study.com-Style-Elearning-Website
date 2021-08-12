@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="CommandAbstract.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190006800000000" Dst="0" />
+<file name="CopyFiles.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190006800000000" Dst="0" />
+<file name="DeleteFiles.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190006800000000" Dst="0" />
+<file name="DeleteFolder.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190006800000000" Dst="0" />
+<file name="CreateFolder.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190006800000000" Dst="0" />
+<file name="DownloadFile.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190006800000000" Dst="0" />
+<file name="FileUpload.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190006800000000" Dst="0" />
+<file name="GetFiles.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190006800000000" Dst="0" />
+<file name="GetFileUrl.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190006800000000" Dst="0" />
+<file name="GetFolders.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190006800000000" Dst="0" />
+<file name="GetResizedImages.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190006800000000" Dst="0" />
+<file name="ImageEdit.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190006800000000" Dst="0" />
+<file name="ImagePreview.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190007400000000" Dst="0" />
+<file name="ImageResize.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190007400000000" Dst="0" />
+<file name="Init.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190007400000000" Dst="0" />
+<file name="Operation.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190007400000000" Dst="0" />
+<file name="Proxy.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190007400000000" Dst="0" />
+<file name="QuickUpload.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190007400000000" Dst="0" />
+<file name="RenameFile.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190007400000000" Dst="0" />
+<file name="MoveFiles.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190007400000000" Dst="0" />
+<file name="RenameFolder.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190007400000000" Dst="0" />
+<file name="SaveImage.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190007400000000" Dst="0" />
+<file name="Thumbnail.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190007400000000" Dst="0" />
+<file name="ImageInfo.php" server="sanaltebesir.com//public_html/" local="132120539900000000" remote="132190008000000000" Dst="0" />
+</dwsync>
